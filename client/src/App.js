@@ -5,9 +5,7 @@ import StartWindow from './components/startWindow/StartWindow';
 
 function App() {
   return (
-    <div>
       <StartWindow/>
-    </div>
   );
 }
 
